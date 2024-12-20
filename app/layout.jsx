@@ -2,7 +2,7 @@ import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 import Search from "@/components/search";
 import "./globals.css";
-import CartIcon from "@/components/CartIcon";
+import CartIcon from "@/components/cartIcon";
 import Image from "next/image";
 
 
